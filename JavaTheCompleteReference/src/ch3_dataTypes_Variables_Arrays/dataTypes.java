@@ -14,7 +14,7 @@ public class dataTypes {
 		
 		char c = 86;
 		
-		boolean b = true;
+		boolean b = false;
 		
 		System.out.println(a);
 		System.out.println(s);
@@ -24,9 +24,6 @@ public class dataTypes {
 		System.out.println(d);
 		System.out.println(c);
 		System.out.println(b);
-
-		
-		
 	}
 
 }
